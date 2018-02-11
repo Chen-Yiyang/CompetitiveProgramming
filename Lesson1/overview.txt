@@ -1,0 +1,3 @@
+Lesson 1:
+- introduction to Competitive Programming
+- algorithm - Dynamic Programming
