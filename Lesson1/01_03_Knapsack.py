@@ -31,5 +31,5 @@ for i in range(1, itemsNum+1):
         else:
             maxValue[i][j] = maxValue[i-1][j-1]
 
-print("The maximum total value is", maxValue[i][j])
+print("The maximum total value is", maxValue[itemsNum][maxVolume])
     
